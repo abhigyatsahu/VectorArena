@@ -1,0 +1,362 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+.navbar-brand{
+    font-family: 'Playfair Display SC', serif;
+}
+
+.d-flex{
+    margin-right: -500px;
+}
+
+.nav-link{
+    font-family: 'Zilla Slab', serif;
+}
+
+/* .display-1{
+    font-family: 'Cinzel', serif;
+    margin: 0 550px 0;
+    font-weight: 600;
+} */
+
+.products-heading{
+    font-family: 'Playfair Display SC', serif;
+    margin: 0 550px 0;
+    font-weight: 300;
+    font-size: 5rem;
+    
+}
+
+.img{
+    width: 100%;
+    height: 400px;
+}
+
+.img-l1{
+    position: relative;
+    
+    
+}
+
+
+.img-text{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    top: 310px;
+    left: 280px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.img-text:hover{
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  /* .col {
+    flex: 50%;
+    padding: 0 4px;
+  }
+   */
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
+
+.img-text2{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    top: 310px;
+    left: 210px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.img-text2:hover{
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+
+
+.footer-icons{
+    font-size: larger;
+    padding: 0 30px 0;
+    margin-top: 150px;
+    text-align: center;
+}
+.footer{
+margin-top: 70px;
+width: 100%;
+/* background-color: antiquewhite; */
+}
+
+.footer{
+    text-align: center;
+}
+
+.fa-brands:hover{
+    color: rgb(12, 12, 128);
+}
+
+.footer-bottom{
+    background-color: #2C3333;
+    margin-top: 70px;
+    width: 100%;
+    height: 400px;
+}
+
+.social{
+    text-align: center;
+    margin-top: 5%;
+    letter-spacing: 20px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+}
+
+.col-1{
+    width: 200px;
+    height: 300px;
+    padding: 50px 0 50px;
+    margin-left: 50px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    padding: 20px 0 20px;
+    line-height: 20px;
+}
+a:hover{
+    color: rgb(191, 200, 208);
+}
+
+.footer-h5{
+    font-family: 'Playfair Display SC', serif;
+    color: aliceblue;
+    margin-bottom: 30px;
+}
+
+.footer-links{
+    font-family: 'Quicksand', sans-serif;
+    line-height: 20px;
+}
+
+.footer-h6{
+    font-family: 'Quicksand', sans-serif;
+    color: aliceblue;
+    margin-bottom: 30px;
+    overflow: auto;
+}
+
+.col-2{
+    width: 450px;
+    height: 300px;
+    padding: 50px 0 50px;
+    margin-left: 50px;
+}
+
+.shots-heading{
+    font-family: 'Playfair Display SC', serif;
+    margin: 100px 500px 0;
+    font-weight: 300;
+    font-size: 5rem;
+}
+
+/* .cam-shots{
+    font-family: 'Playfair Display SC', serif;
+    margin: 0px 200px 0;
+    font-weight: 300;
+    font-size: 5rem;
+} */
+
+.cam-shots-heading{
+    font-family: 'Playfair Display SC', serif;
+    margin: 50px 500px 0;
+    font-weight: 300;
+    font-size: 4.4rem;
+}
+
+.credits{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 50%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
+
+.buttons{
+    text-align: center;
+}
+
+.drones{
+    width: 80%;
+    height: 600px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.pricing{
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* contact...........durgeshnandni */
+.contact{
+    width: 40%;
+   
+    /* margin-left: 20%; */
+    margin: 5% 20% 10%;
+}
+
+/* support........durgeshnandni */
+
+.support{
+   /* background-color:burlywood; */
+   width: 80%;
+   margin-left: 10%;
+   display: block;
+}
+
+.sup-img{
+   width: 500px;
+   height: 500px;
+   /* margin-left: 60%; */
+   /* background-color: blue; */
+   margin-left: 400px;
+}
+.sopport-heading{
+   margin-left: 20%;
+   /* font-family: 'Playfair Display SC', serif; */
+    padding-top: 80px;
+    font-family: 'Dancing Script', cursive; 
+}
+.support-para{
+   padding-left: 10%;
+   font-family: 'Quicksand', sans-serif;
+}
+
+/* login..........durgeshnandni */
+
+.log-text{
+   /* font-family: 'Dancing Script', cursive; */
+   font-family: 'Lobster', cursive;
+   margin: 20% 0% 18% 30%;
+   font-size: 3rem;
+}
+
+/* register..........durgeshnandni */
+.register-text{
+   font-family: 'Courgette', cursive;
+   margin: 20% 0% 18% 25%;
+   font-size: 3rem;
+}
+
+@media only screen and (min-width:150px) and (max-width:800px){
+    .products-heading{
+        width: 100%;
+        margin: 20% 29% 3%;
+        font-size: 3rem;
+    }
+
+    .img-text{
+        left: 40%;
+    }
+
+    .img-text2{
+        left: 27%;
+    }
+
+    .cam-shots-heading{
+        margin: 20% 20% 10%;
+        font-size: 3rem;
+    }
+
+    .shots-heading{
+        margin: 30% 25% 3%;
+        font-size: 3rem;
+    }
+
+    .footer-bottom{
+        height: 100%;
+    }
+
+    .social{
+        padding-top: 5%;
+    }
+    
+}
+
+.goto{
+    margin: 0 46% 0;
+}
+
+/* Jittu's Css */
+
+
+
+  .head{
+    font-family: 'Poppins', sans-serif;
+  }
+  .container1{
+    background-color:  #C0C2C5 ;
+    border-radius: 15px;
+    width: 100%;
+  }
+  .head{
+    text-align: center;
+  }
+
+
+
+.card{
+  text-align: center;
+  margin-left: 7px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+.card-body{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.fa-solid{
+  margin-top: 10px;
+  margin-bottom: 30px; 
+}
+
+@media only screen and (min-width:200px) and (max-width:800px)  {
+   .card-body{
+    width: 100%;
+      display: block;
+     
+  }
+}
