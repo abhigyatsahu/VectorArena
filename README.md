@@ -41,7 +41,8 @@
     </ul>
     <h3>Development Tools</h3>
     <ul>
-        <li>IDE: PyCharm and Visual Studio Code</li>
+        <li>IDE: Visual Studio Code</li>
+        <li>Server : Xampp server (MySQL and Apache) </li>
     </ul>
 
   <h2 id="features">Features</h2>
