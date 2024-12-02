@@ -120,10 +120,10 @@
 
   <h2 id="team-members">Team Members</h2>
     <ul>
-        <li>Abhigyat Sahu (CSE)</li>
-        <li>Jitendra Nahak (CSE)</li>
-        <li>Durgeshnandni Sahu (IT)</li>
-        <li>Chetan Sahu (IT)</li>
+        <li>Abhigyat Sahu (CSE) - Frontend and Project Lead as well as Design</li>
+        <li>Jitendra Nahak (CSE) - Backend (PHP)</li>
+        <li>Durgeshnandni Sahu (IT) - Frontend Support</li>
+        <li>Chetan Sahu (IT) - Backend(MySQL and Database Design)</li>
     </ul>
 
   <h2 id="acknowledgments">Acknowledgments</h2>
